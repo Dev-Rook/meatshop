@@ -4,7 +4,7 @@ import Styles from "../Styles/Dynamic-Page-Styles/Template/Template.module.css"
 
 const ChickenDetails = () => {
   return (
-    <div>ChickenDetails</div>
+    <div className={Styles.Page}>ChickenDetails</div>
   )
 }
 

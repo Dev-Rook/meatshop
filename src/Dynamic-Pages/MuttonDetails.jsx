@@ -4,7 +4,7 @@ import Styles from "../Styles/Dynamic-Page-Styles/Template/Template.module.css"
 
 const MuttonDetails = () => {
   return (
-    <div>MuttonDetails</div>
+    <div className={Styles.Page}>MuttonDetails</div>
   )
 }
 

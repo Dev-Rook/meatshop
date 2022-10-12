@@ -3,7 +3,7 @@ import Styles from "./App.module.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Nav from "./Components/Main/Nav/Nav";
-import Landing from "./Views/Landing/Landing";
+import Landing from "./Pages/Landing/Landing";
 import NavigationIcon from "@mui/icons-material/Navigation";
 
 // Dynamic Page Import Start
