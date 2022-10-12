@@ -1,0 +1,8 @@
+.Landing {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  padding: 5px;
+  gap: 30px;
+}/*# sourceMappingURL=Landing.module.css.map */
